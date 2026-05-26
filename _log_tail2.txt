@@ -1,0 +1,68 @@
+'i' ctrl=False shift=False mode=ready
+[12:25:29] [KEY] k='space' ctrl=False shift=False mode=ready
+[12:25:29] [KEY] k='b' ctrl=False shift=False mode=ready
+[12:25:29] [KEY] k='u' ctrl=False shift=False mode=ready
+[12:25:30] [KEY] k='x' ctrl=False shift=False mode=ready
+[12:25:30] [KEY] k='i' ctrl=False shift=False mode=ready
+[12:25:30] [KEY] k='n' ctrl=False shift=False mode=ready
+[12:25:30] [KEY] k='g' ctrl=False shift=False mode=ready
+[12:25:30] [KEY] k='a' ctrl=False shift=False mode=ready
+[12:25:30] [KEY] k='space' ctrl=False shift=False mode=ready
+[12:25:31] [KEY] k='enter' ctrl=False shift=False mode=ready
+[12:25:43] [KEY] k='h' ctrl=False shift=False mode=ready
+[12:25:43] [KEY] k='a' ctrl=False shift=False mode=ready
+[12:25:43] [KEY] k='u' ctrl=False shift=False mode=ready
+[12:25:43] [KEY] k='n' ctrl=False shift=False mode=ready
+[12:25:43] [KEY] k='space' ctrl=False shift=False mode=ready
+[12:25:44] [KEY] k='k' ctrl=False shift=False mode=ready
+[12:25:44] [KEY] k='u' ctrl=False shift=False mode=ready
+[12:25:44] [KEY] k='a' ctrl=False shift=False mode=ready
+[12:25:44] [KEY] k='i' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='j' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='i' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='e' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='j' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='a' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='i' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='n' ctrl=False shift=False mode=ready
+[12:25:45] [KEY] k='space' ctrl=False shift=False mode=ready
+[12:25:46] [KEY] k='b' ctrl=False shift=False mode=ready
+[12:25:46] [KEY] k='a' ctrl=False shift=False mode=ready
+[12:25:46] [KEY] k='space' ctrl=False shift=False mode=ready
+[12:25:46] [KEY] k='enter' ctrl=False shift=False mode=ready
+[12:28:26] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:28:26] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:28:28] ✅ 选定区域! (1061,35) 1x0
+[12:28:29] ⏹ 已退出框选
+[12:28:31] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:28:32] ⏹ 已退出框选
+[12:28:32] ⏹ 已退出框选
+[12:28:35] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:28:38] ✅ 选定区域! (1498,464) 560x301
+[12:28:42] ▶️ 开始监测! 区域:(1498, 464, 560, 301)
+[12:28:42] 🚀 监测中 区域:(1498,464) 560x301
+[12:28:42] 📁 存: D:\workspace\ppt_slides | F12=手动截图 | Ctrl+Shift+Q=停止
+[12:28:47] ✅ 选定区域! (1680,692) 0x0
+[12:28:51] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:28:53] ✅ 选定区域! (1518,478) 550x292
+[12:28:56] ⚠️ 请先用 F2 拖拽选择区域!
+[12:29:01] ⚠️ 请先用 F2 拖拽选择区域!
+[12:29:03] ⚠️ 请先用 F2 拖拽选择区域!
+[12:29:03] ⚠️ 请先用 F2 拖拽选择区域!
+[12:29:37] ⏹ 退出中...
+[12:29:51] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:29:51] ⏹ 已退出框选
+[12:29:52] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:29:53] ⏹ 已退出框选
+[12:30:58] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:30:59] ⏹ 已退出框选
+[12:30:59] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:30:59] ⏹ 已退出框选
+[12:31:16] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:31:17] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:31:17] ⏹ 已退出框选
+[12:54:37] 🟢 拖拽框选模式 → 按住鼠标左键拖动选区域
+[12:54:42] ✅ 选定区域! (0,77) 2557x1459
+[12:54:45] ▶️ 开始监测! 区域:(0, 77, 2557, 1459)
+[12:54:45] 🚀 监测中 区域:(0,77) 2557x1459
+[12:54:45] 📁 存: D:\workspace\ppt_slides | F4=手动截图 | F10=停止
