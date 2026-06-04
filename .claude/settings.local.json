@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(Get-ChildItem -Recurse -Depth 2 d:\\\\workspace\\\\test | Where-Object { -not $_.PSIsContainer } | Select-Object FullName | Format-Table -AutoSize)"
+      "PowerShell(Get-ChildItem -Recurse -Depth 2 d:\\\\workspace\\\\test | Where-Object { -not $_.PSIsContainer } | Select-Object FullName | Format-Table -AutoSize)",
+      "PowerShell(git push -u origin main --force)"
     ]
   }
 }
