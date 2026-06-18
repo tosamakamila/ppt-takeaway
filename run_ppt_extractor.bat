@@ -5,17 +5,25 @@ echo =============================================
 echo      PPT Extractor v6.0
 echo =============================================
 echo.
-echo   F2  = Select Area
-echo   F3  = Start/Stop Monitor
-echo   F4  = Manual Capture
-echo   F5  = Record Clicks
-echo   F6  = Play Current Group
-echo   F7  = Stop
-echo   F8  = Play All Groups
-echo   F9  = Lock Window
-echo   ESC = Cancel
-echo   F10 = Exit
+echo   Alt+Q = Select Area
+echo   Alt+W = Start/Stop Monitor
+echo   Alt+E = Manual Capture
+echo   Alt+R = Record Clicks
+echo   Alt+T = Play Current Group
+echo   Alt+Y = Stop
+echo   Alt+U = Play All Groups
+echo   Alt+I = Lock Window
+echo   Alt+O = Exit
+echo   ESC   = Cancel
 echo =============================================
 echo.
-python "%~dp0ppt_extractor.py"
+set "UV_CACHE_DIR=%~dp0.uv-cache"
+set "UV_PYTHON=D:\Software\anaconda\python.exe"
+set "PATH=C:\Program Files\Tesseract-OCR;%PATH%"
+uv run python "%~dp0ppt_extractor.py"
+if errorlevel 1 (
+    echo.
+    echo uv run failed, fallback to python...
+    python "%~dp0ppt_extractor.py"
+)
 pause

@@ -1,4 +1,9 @@
 {
   "interval_minutes": 1,
-  "click_loop": true
+  "click_loop": true,
+  "simple_weeks": "1-12",
+  "simple_duration_seconds": 2880.0,
+  "simple_skip_done": true,
+  "global_group_loop": false,
+  "simple_click_profile": []
 }

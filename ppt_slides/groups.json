@@ -1,100 +1,1696 @@
 [
   {
-    "name": "组2",
+    "name": "第02周_第1节",
     "clicks": [
       {
-        "x": 2451,
-        "y": 839,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 2
       },
       {
-        "x": 2057,
-        "y": 731,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2周",
+          "第02周",
+          "2周",
+          "02周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 2
       },
       {
-        "x": 2496,
-        "y": 484,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 2
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 2
       }
     ],
     "repeat": 1,
-    "next_delay": 8400.0
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
   },
   {
-    "name": "步骤二",
+    "name": "第02周_第2节",
     "clicks": [
       {
-        "x": 2484,
-        "y": 902,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 2
       },
       {
-        "x": 2074,
-        "y": 603,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2周",
+          "第02周",
+          "2周",
+          "02周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 2
       },
       {
-        "x": 1809,
-        "y": 759,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 2
       },
       {
-        "x": 2497,
-        "y": 483,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 2
       }
     ],
     "repeat": 1,
-    "next_delay": 8400.0
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
   },
   {
-    "name": "组4",
+    "name": "第03周_第1节",
     "clicks": [
       {
-        "x": 2429,
-        "y": 892,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 3
       },
       {
-        "x": 2135,
-        "y": 723,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第3周",
+          "第03周",
+          "3周",
+          "03周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 3
       },
       {
-        "x": 2500,
-        "y": 478,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 3
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 3
       }
     ],
     "repeat": 1,
-    "next_delay": 8400.0
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
   },
   {
-    "name": "组3",
+    "name": "第03周_第2节",
     "clicks": [
       {
-        "x": 2438,
-        "y": 897,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 3
       },
       {
-        "x": 2269,
-        "y": 584,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第3周",
+          "第03周",
+          "3周",
+          "03周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 3
       },
       {
-        "x": 1784,
-        "y": 780,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 3
       },
       {
-        "x": 2484,
-        "y": 484,
-        "delay": 1.0
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 3
       }
     ],
     "repeat": 1,
-    "next_delay": 8400.0
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第04周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 4
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第4周",
+          "第04周",
+          "4周",
+          "04周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 4
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 4
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 4
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第04周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 4
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第4周",
+          "第04周",
+          "4周",
+          "04周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 4
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 4
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 4
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第05周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 5
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第5周",
+          "第05周",
+          "5周",
+          "05周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 5
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 5
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 5
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第05周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 5
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第5周",
+          "第05周",
+          "5周",
+          "05周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 5
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 5
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 5
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第06周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 6
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第6周",
+          "第06周",
+          "6周",
+          "06周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 6
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 6
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 6
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第06周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 6
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第6周",
+          "第06周",
+          "6周",
+          "06周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 6
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 6
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 6
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第07周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 7
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第7周",
+          "第07周",
+          "7周",
+          "07周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 7
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 7
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 7
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第07周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 7
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第7周",
+          "第07周",
+          "7周",
+          "07周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 7
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 7
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 7
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第08周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 8
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第8周",
+          "第08周",
+          "8周",
+          "08周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 8
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 8
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 8
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第08周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 8
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第8周",
+          "第08周",
+          "8周",
+          "08周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 8
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 8
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 8
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第09周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 9
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第9周",
+          "第09周",
+          "9周",
+          "09周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 9
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 9
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 9
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第09周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 9
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第9周",
+          "第09周",
+          "9周",
+          "09周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 9
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 9
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 9
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第10周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 10
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第10周",
+          "第10周",
+          "10周",
+          "10周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 10
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 10
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 10
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第10周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 10
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第10周",
+          "第10周",
+          "10周",
+          "10周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 10
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 10
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 10
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第11周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 11
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第11周",
+          "第11周",
+          "11周",
+          "11周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 11
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 11
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 11
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第11周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 11
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第11周",
+          "第11周",
+          "11周",
+          "11周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 11
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 11
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 11
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第12周_第1节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 1,
+        "week_slot": 12
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第12周",
+          "第12周",
+          "12周",
+          "12周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 1,
+        "week_slot": 12
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第1节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 1,
+        "week_slot": 12
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 1,
+        "week_slot": 12
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
+  },
+  {
+    "name": "第12周_第2节",
+    "clicks": [
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "切换节次",
+          "切换"
+        ],
+        "require_ocr": true,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "",
+        "lesson_slot": 2,
+        "week_slot": 12
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第12周",
+          "第12周",
+          "12周",
+          "12周"
+        ],
+        "require_ocr": true,
+        "search_scroll": true,
+        "search_area": "week_tabs",
+        "exact_match": false,
+        "scroll_axis": "horizontal",
+        "mode": "week_tab",
+        "lesson_slot": 2,
+        "week_slot": 12
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "第2节课表卡片"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "course_cards",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "course_card",
+        "lesson_slot": 2,
+        "week_slot": 12
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "delay": 1.0,
+        "target_text": [
+          "关闭切换节次弹窗"
+        ],
+        "require_ocr": false,
+        "search_scroll": false,
+        "search_area": "full",
+        "exact_match": false,
+        "scroll_axis": "vertical",
+        "mode": "close_switch_dialog",
+        "lesson_slot": 2,
+        "week_slot": 12
+      }
+    ],
+    "repeat": 1,
+    "next_delay": 2880.0,
+    "duration_seconds": 2880.0,
+    "auto_simple": true
   }
 ]
